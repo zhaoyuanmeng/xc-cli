@@ -1,21 +1,21 @@
 
-## scaffold
+## xaxc
 
 
 ### 安装
 
 ```javascript
-npm install -g vue-future
+npm install -g xc-cli
 ```
 
 ### 查看命令
 
 ```javascript
-future
+xc
 ```
 
 ### 创建项目
 
 ```javascript
-future create my-name
+xc create my-name
 ```
