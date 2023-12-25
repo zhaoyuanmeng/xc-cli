@@ -5,7 +5,7 @@
 ### 安装
 
 ```javascript
-npm install -g xc-cli
+npm install -g xaxc-cli
 ```
 
 ### 查看命令
