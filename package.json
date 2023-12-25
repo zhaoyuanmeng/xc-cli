@@ -1,5 +1,5 @@
 {
-  "name": "xc-cli",
+  "name": "xaxc-cli",
   "version": "1.0.2",
   "description": "通用脚手架",
   "main": "index.js",
